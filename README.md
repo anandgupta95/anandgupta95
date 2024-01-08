@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">A passionate JAVA developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandgupta95&label=Profile%20views&color=0e75b6&style=flat" alt="anandgupta95" /> </p>
 
-- 🌱 I’m currently learning **JAVA,Python(django),dsa**
+- 🌱 I’m currently learning **React,Python(django),dsa**
 
 - 💬 Ask me about **c and c++**
 
