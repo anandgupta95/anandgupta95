@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandgupta95&label=Profile%20views&color=0e75b6&style=flat" alt="anandgupta95" /> </p>
 
-- 🌱 I’m currently learning **Java , Spring boot, Microservices, dsa**
+- 🌱 I’m currently learning **Python , Django, Microservices, dsa**
 
 - 💬 Ask me about *distributed systems design**
 
